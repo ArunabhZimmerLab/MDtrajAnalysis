@@ -1,7 +1,7 @@
 from pymol import cmd
 import numpy as np
 
-def color_CA_by_custom_value(pdb_filename):
+def color_CA_by_RMSD(pdb_filename):
     value_dict = {}
 
     # Parse the value from each line in the PDB file
