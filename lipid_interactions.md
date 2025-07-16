@@ -29,8 +29,8 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/ArunabhZimmerLab/MDtrajAnalysis/
-cd 
+git clone https://github.com/ArunabhZimmerLab/MDtrajAnalysis.git
+cd MDtrajAnalysis
 
 Download your PDB Trajectory:
 Place your .pdb trajectory file (e.g., EMT_t5.pdb) in the same directory as the Jupyter Notebook, or provide its full path.
